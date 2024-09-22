@@ -1,6 +1,5 @@
 # Here is my Portfolio: Madhav_Analyst.io
 
-
 Demo images* courtesy of Unsplash, a fantastic collection of CC0 (public domain) images
 You can use it for pretty much whatever reason.
 
