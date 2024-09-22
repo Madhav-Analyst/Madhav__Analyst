@@ -1,4 +1,4 @@
-# Here is my Portfolio: Madhav_Analyst.io
+# Here is my Portfolio: https://madhav-analyst.github.io/Madhav__Analyst/
 
 Demo images* courtesy of Unsplash, a fantastic collection of CC0 (public domain) images
 You can use it for pretty much whatever reason.
